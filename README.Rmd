@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# iframe.illustrations
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Some iframe for our blog posts on thinkr.fr
+
+Links to all files
+
+```{r, results="asis"}
+# For github
+cat(paste(
+  paste("-", 
+        file.path("https://thinkr-open.github.io/iframe.illustrations",
+                  list.files(pattern = ".html")
+        )
+  ), collapse = "\n"
+))
+```
+
