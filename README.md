@@ -56,6 +56,7 @@ cat(paste(
   - <https://thinkr-open.github.io/iframe.illustrations/tables-dt7.html>
   - <https://thinkr-open.github.io/iframe.illustrations/tables-dt8.html>
   - <https://thinkr-open.github.io/iframe.illustrations/tables-dt9.html>
+  - <https://thinkr-open.github.io/iframe.illustrations/tables-ke1.html>
   - <https://thinkr-open.github.io/iframe.illustrations/tables-react1.html>
   - <https://thinkr-open.github.io/iframe.illustrations/tables-react10.html>
   - <https://thinkr-open.github.io/iframe.illustrations/tables-react2.html>
